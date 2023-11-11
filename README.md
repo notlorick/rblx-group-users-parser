@@ -1,7 +1,7 @@
 # rblx-group-users-parser
 Asynchronously fetches userids of all group members
 
-#Instructions
+# Instructions
 1. install requirements
 2. python main.py
 3. enter groupid (e.x 4914494)
