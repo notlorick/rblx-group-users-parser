@@ -1,5 +1,5 @@
 # rblx-group-users-parser
-Fetches userids of all group members
+Asynchronously fetches userids of all group members
 
 #Instructions
 1. install requirements
